@@ -50,4 +50,4 @@ The user will be able to add expenses and deposits to their budget with or witho
 
   ## Deployment
 
-https://mighty-everglades-06318.herokuapp.com/ 
+https://budget-tracker-tlh.herokuapp.com/
